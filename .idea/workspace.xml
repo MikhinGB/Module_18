@@ -4,51 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec185597-549b-4dca-8980-de3a51af39e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Module-18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/class_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/func_template.html" afterDir="false" />
+    <list default="true" id="ec185597-549b-4dca-8980-de3a51af39e6" name="Changes" comment="08.09/2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/class_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/func_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/func_template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +39,12 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Module-18\UrbanDjango\templates\second_task" />
       <recent name="C:\Users\User\PycharmProjects\Module-18\UrbanDjango\templates" />
     </key>
   </component>
@@ -103,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725739095573</updated>
     </task>
+    <task id="LOCAL-00001" summary="08.09/2024">
+      <option name="closed" value="true" />
+      <created>1725813919858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725813919858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08.09/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="08.09/2024" />
   </component>
 </project>
