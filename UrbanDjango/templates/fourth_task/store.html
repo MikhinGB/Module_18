@@ -1,0 +1,17 @@
+{% extends "menu.html" %}
+
+{% block title %}озерцо - {{ block.super }}{% endblock %}
+
+{% block pagename %}
+    {{ block.super }}
+{% endblock %}
+
+{% block menu %}
+    {{ block.super }}
+{% endblock %}
+
+{% block content %}
+    {% for i in fish %}
+        <p>{{ i }} <button>Купить</button></p>
+    {% endfor %}
+{% endblock %}
