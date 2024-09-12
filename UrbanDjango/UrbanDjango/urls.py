@@ -18,13 +18,11 @@ from django.contrib import admin
 from django.urls import path
 # from task2.views import func_template, class_template
 # from task3.views import home, store, basket
-from task4.views import home, store, basket
+# from task4.views import home, store, basket
+from task5.views import sign_up_by_html
 from django.views.generic import TemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', home),
-    path('fish/', store),
-    path('fishpond/', basket)
-
+    path('', sign_up_by_html),
 ]
